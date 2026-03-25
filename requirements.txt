@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+prophet
+beautifulsoup4
+requests
+plotly
+matplotlib
+scikit-learn
+statsmodels
+python-multipart

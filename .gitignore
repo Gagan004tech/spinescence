@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+.env
+
+# Pycache
+__pycache__/
+*.pyc
+
+# Local testing
+test_output.txt
